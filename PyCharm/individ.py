@@ -4,7 +4,7 @@
 from threading import Thread
 import math
 
-EPS = 10**(-7)
+EPS = 1e-07
 
 
 def sum_func(x):
